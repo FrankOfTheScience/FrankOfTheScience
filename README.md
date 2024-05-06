@@ -1,7 +1,7 @@
 ## Hello! I’m Francesco! 👋
 ![e7e48a62-871c-49b7-9088-43303afdb68d](https://github.com/FrankOfTheScience/FrankOfTheScience/assets/119010269/191c8456-7c7b-4756-9989-9938fd30e8d9)
 
-Howdy! I'm a backend developer from Italy with a passion for 🏄🏻‍♂️, 🎸, and globetrotting ✈️.
+Howdy! I'm a backend developer from Italy with a passion for surfing 🏄🏻‍♂️, playing guitar 🎸, and globetrotting ✈️.
 
 I come from a finance background academically, but technology has always been my kryptonite since I tried to build a nuclear power plant model for a middle school project using Arduino (spoiler alert: the power plant didn't make it, but my love for coding did).
 
@@ -12,13 +12,13 @@ This motivates me to keep learning new skills, solve problems, and collaborate w
 
 🧑‍🎓 I’m constantly training to acquire new skills
 
-👩🏻‍💻 I'm currently working as a Backend Engineer @ [Avanade](https://www.avanade.com/it-it)⚡, but you can find more details about my career in [my Resumee](https://github.com/FrankOfTheScience/Resumee/blob/master/CV%20-%20Francesco%20Dell'Ascenza.pdf)!
+👩🏻‍💻 I'm currently working as a Backend Engineer @[Avanade](https://www.avanade.com/it-it)⚡, but you can find more details about my career in [my Resumee](https://github.com/FrankOfTheScience/Resumee/blob/master/CV%20-%20Francesco%20Dell'Ascenza.pdf)!
 
 <h3 align="left">Languages, Framework & Tools:</h3>
 <p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+  <!--<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
+  </a>-->
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
