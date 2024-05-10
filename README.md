@@ -12,7 +12,7 @@ This motivates me to keep learning new skills, solve problems, and collaborate w
 
 🧑‍🎓 I’m constantly training to acquire new skills
 
-👩🏻‍💻 I'm currently working as a Backend Engineer @[Avanade](https://www.avanade.com/it-it)⚡, but you can find more details about my career in [my Resumee](https://github.com/FrankOfTheScience/Resumee/blob/master/CV%20-%20Francesco%20Dell'Ascenza.pdf)!
+👩🏻‍💻 I'm currently working as a Backend Engineer @[Avanade](https://www.avanade.com/it-it), but you can find more details about my career in [my Resumee](https://github.com/FrankOfTheScience/Resumee/blob/master/CV%20-%20Francesco%20Dell'Ascenza.pdf)!
 
 <h3 align="left">Languages, Framework & Tools:</h3>
 <p align="left"> 
