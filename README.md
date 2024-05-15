@@ -6,9 +6,9 @@ Howdy! I'm a backend developer from Italy with a passion for surfing 🏄🏻‍
 I've always known that technology was my kryptonite since I tried to build a nuclear power plant model for a middle school project using Arduino ⚛️.<br/>
 Spoiler alert: _the power plant was a bit much , but new passion in tech and programming: unlocked ✔️._
 
-At University I studied Banking and Finance @Università degli Studi di Pisa, but the pull of coding was too strong.   Between juggling stats and financial models , I started learning Python for school and dabbling in .NET for fun.  [.NET for the win! ]
+At University I studied Banking and Finance @Università degli Studi di Pisa, but the pull of coding was too strong.   Between juggling stats and financial models , I started learning Python for school and dabbling in .NET for fun.  [.NET for the win!]
 
-Fueled by wanderlust and a desire to code for a living, I spent two years learning on my own and in courses.  Backend development with .NET was my focus, but I also picked up Java, JavaScript, and even some frontend skills.   During this time, I also did some Workaway adventures in different countries, with a special place in my heart for Gran Canaria (hoping to return someday!).
+Fueled by wanderlust and a desire to code for a living, I spent two years learning on my own and in courses.  Backend development with .NET was my focus, but I also picked up Java, JavaScript, and even some frontend skills. During this time, I also did some Workaway adventures living in different countries, with a special place in my heart for Gran Canaria (hoping to return living there again someday!).
 
 Finally, I landed my dream job as a software engineer!<br/> Why do I love it so much?<br/> Because every day is a new challenge to conquer, like a boss level in a video game where the ultimate prize is finding the smartest solution. <br/>It's the perfect blend of logic and creativity: using code to craft elegant solutions, but with endless possibilities thanks to the power of imagination! ✨
 
