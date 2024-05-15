@@ -96,14 +96,6 @@ This motivates me to keep learning new skills, solve problems, and collaborate w
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrankOfTheScience&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true&custom_title=Top%20Languages" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <a href="mailto:f.dellascenza@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/francescodellascenza/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/15007932/frankofthescience" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/FrankOfTheScience/FrankOfTheScience/output/snake.svg" alt="Snake animation" />
