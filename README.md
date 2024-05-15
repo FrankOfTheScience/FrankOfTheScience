@@ -71,6 +71,6 @@ This motivates me to keep learning new skills, solve problems, and collaborate w
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankofthescience&show_icons=true&locale=en&layout=compact" alt="frankofthescience" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frankofthescience&show_icons=true&locale=en" alt="frankofthescience" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frankofthescience&show_icons=true&locale=en" alt="frankofthescience" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frankofthescience&" alt="frankofthescience" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frankofthescience&" alt="frankofthescience" /></p>-->
