@@ -98,4 +98,9 @@ This motivates me to keep learning new skills, solve problems, and collaborate w
 <img src="https://raw.githubusercontent.com/FrankOfTheScience/FrankOfTheScience/output/snake.svg" alt="Snake animation" />
 </div>
 
+---
+---
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FrankOfTheScience.FrankOfTheScience&left_text=Here%20you%20are%20too!"  />
+</div>
