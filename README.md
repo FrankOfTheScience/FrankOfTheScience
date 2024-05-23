@@ -18,7 +18,7 @@ This motivates me to keep learning new skills, solve problems, and collaborate w
 * 🌍  I'm based in Gaeta Italy, I am interested in full remote opportunities to keep enjoying the beach in my free time
 * ✉️  You can contact me at [f.dellascenza@gmail.com](mailto:f.dellascenza@gmail.com)
 * 🤝  Currently working  [@Avanade](https://www.avanade.com/it-it)
-* 🎓  [Here](https://github.com/FrankOfTheScience/Resumee/blob/master/CV%20-%20Francesco%20Dell'Ascenza.pdf) you can check out my resumee
+* 🎓  [Here](https://frankofthescience.github.io/Resumee/CV%20-%20Francesco%20Dell'Ascenza.pdf) you can check out my resumee
 * ⚡  I am a guitar player ([here's me with my band in rehearsal room](https://www.youtube.com/watch?v=hrFgOJeLN5Q)) and a weekend surfer, my dream is to permanently move to Canary Islands to live in an endless summer; sun code and surf
 
 ## Contacts
