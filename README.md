@@ -19,7 +19,7 @@ This motivates me to keep learning new skills, solve problems, and collaborate w
 * ✉️  You can contact me at [f.dellascenza@gmail.com](mailto:f.dellascenza@gmail.com)
 * 🤝  Currently working  [@Avanade](https://www.avanade.com/it-it)
 * 🎓  [Here](https://frankofthescience.github.io/Resumee/CV%20-%20Francesco%20Dell'Ascenza.pdf) you can check out my resumee
-* ⚡  I am a guitar player ([here's me with my band in rehearsal room](https://www.youtube.com/watch?v=hrFgOJeLN5Q)) and a weekend surfer, my dream is to permanently move to Canary Islands to live in an endless summer; sun code and surf
+* ⚡  I am a guitar player and a weekend surfer, my dream is to permanently move to Canary Islands to live in an endless summer; sun code and surf
 
 ## Contacts
 <div align="center">
