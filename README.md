@@ -22,10 +22,6 @@ This motivates me to keep learning new skills, solve problems, and collaborate w
 * ⚡  I am a guitar player and a weekend surfer, my dream is to permanently move to Canary Islands to live in an endless summer; sun code and surf
 
 ## Contacts
-<div align="center">
-  <a href="mailto:f.dellascenza@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/francescodellascenza/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
