@@ -1,127 +1,128 @@
-# Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Francesco! 
-![e7e48a62-871c-49b7-9088-43303afdb68d](https://github.com/FrankOfTheScience/FrankOfTheScience/assets/119010269/191c8456-7c7b-4756-9989-9938fd30e8d9)
-## Something about me..
-Howdy! I'm a backend developer from Italy with a passion for surfing 🏄🏻‍♂️, playing guitar 🎸, and globetrotting ✈️.
+# Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## I'm Francesco 👋
 
-I've always known that technology was my kryptonite since I tried to build a nuclear power plant model for a middle school project using Arduino ⚛️.<br/>
-Spoiler alert: _the power plant was a bit much , but new passion in tech and programming: unlocked ✔️._
+![surf](https://github.com/FrankOfTheScience/FrankOfTheScience/assets/119010269/191c8456-7c7b-4756-9989-9938fd30e8d9)
 
-At University I studied Banking and Finance [@Università degli Studi di Pisa](https://www.unipi.it/), but the pull of coding was too strong.   Between juggling stats and financial models , I started learning Python for school and dabbling in .NET for fun.  [.NET for the win!]
+### 🧠 About Me
+I'm a backend developer from Italy with a deep love for technology, surfing 🏄🏻‍♂️, guitar 🎸 and travel ✈️.  
 
-Fueled by wanderlust and a desire to code for a living, I spent two years learning on my own and in courses.  Backend development with .NET was my focus, but I also picked up Java, JavaScript, and even some frontend skills. During this time, I also did some Workaway adventures living in different countries, with a special place in my heart for Gran Canaria (hoping to return living there again someday!).
+My passion for code began in middle school, when I tried to build a *nuclear power plant model* using Arduino ⚛️.  
+It didn’t light up the neighborhood — but it did light up my curiosity.
 
-Finally, I landed my dream job as a software engineer!<br/> Why do I love it so much?<br/> Because every day is a new challenge to conquer, like a boss level in a video game where the ultimate prize is finding the smartest solution. <br/>It's the perfect blend of logic and creativity: using code to craft elegant solutions, but with endless possibilities thanks to the power of imagination! ✨
+I actually studied **Banking and Finance** at [Università di Pisa](https://www.unipi.it/), but numbers alone weren’t enough — I wanted to *create*.  
+So I shifted paths, taught myself **.NET**, Python, Java, and JavaScript, mixing logic with creativity.  
 
-This motivates me to keep learning new skills, solve problems, and collaborate with close-knit teams to create amazing products using the power of "machine whispering" skills! ⌨️
+After a few nomadic years (and a lot of Workaway adventures — especially in **Gran Canaria**, my dream home 🌴),  
+I became a **Software Engineer**.  
+For me, each project feels like a boss level in a video game — solve it, learn, and level up.
 
-## Quick Info
-* 🌍  I'm based in Gaeta Italy, I am interested in full remote opportunities to keep enjoying the beach in my free time
-* ✉️  You can contact me at [f.dellascenza@gmail.com](mailto:f.dellascenza@gmail.com)
-* 🤝  Currently working  [@Avanade](https://www.avanade.com/it-it)
-* 🎓  [Here](https://github.com/FrankOfTheScience/Resumee/blob/master/CV%20.pdf) you can check out my resumee, or if you like [videogames..](https://frankofthescience.github.io/2d-portfolio-kaboom-FrankOfTheScience/)
-* ⚡  I am a guitar player and a weekend surfer, my dream is to permanently move to Canary Islands to live in an endless summer; sun code and surf
+> “Logic builds the structure, imagination makes it beautiful.”
 
-## Contacts
-  <a href="https://www.linkedin.com/in/francescodellascenza/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/15007932/frankofthescience" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
+---
+
+### ⚙️ Quick Info
+- 🌍 Based in **Gaeta, Italy** — open to **full remote** roles (so I can keep coding by the sea)
+- ✉️ Reach me at [f.dellascenza@gmail.com](mailto:f.dellascenza@gmail.com)
+- 💼 Currently at [Avanade](https://www.avanade.com/it-it)
+- 📄 [Résumé (PDF)](https://github.com/FrankOfTheScience/Resumee/blob/master/CV%20.pdf) or [🎮 Gamified Portfolio](https://frankofthescience.github.io/2d-portfolio-kaboom-FrankOfTheScience/)
+- ⚡ Guitarist & weekend surfer — dream: **endless summer in the Canary Islands**
+
+---
+
+### 🛠 Tech Stack
+
+#### Backend & Infra
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" />
 </div>
 
-## Languages, Framework & Tools
+#### Frontend
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="NodeJS" width="55" height="55"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="30" alt="Typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" height="30" alt="Blazor"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="30" alt="nuget logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" height="30" alt="RabbitMQ" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" height="30" alt="Redis" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" alt="AzureSQLDb" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="30" alt="salesforce logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" height="30" alt="Swagger" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-plain.svg" height="30" alt="OpenApi" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" height="30" alt="AzureDevOps" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" height="30" alt="Notion" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
 </div>
 
-
-## Some Stats
-I work on Azure Repositories, so my stats doesn't include my daily work.
+#### DevOps
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrankOfTheScience&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&custom_title=General%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrankOfTheScience&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true&custom_title=Top%20Languages" height="150" alt="languages graph"  />
-  <br clear="both">
-<img src="https://raw.githubusercontent.com/FrankOfTheScience/FrankOfTheScience/output/snake.svg" alt="Snake animation" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
+  <img src="https://img.shields.io/badge/YAML-000000?logo=yaml&style=flat-square" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="30" />
+</div>
+
+#### Databases
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" />
+</div>
+
+#### Cloud
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900&style=flat-square" height="30" />
+</div>
+
+#### Dev Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postman" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=github&style=flat-square" height="30" />
+  <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&style=flat-square" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original-wordmark.svg" height="30" />
+  <img src="https://img.shields.io/badge/ChatGPT-3FA33F?logo=openai&style=flat-square" height="30" />
+</div>
+
+#### Collaboration Tools
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" />
+  <img src="https://img.shields.io/badge/M365-0078D4?logo=microsoftoffice&style=flat-square" height="30" />
+  <img src="https://img.shields.io/badge/Google%20Suite-4285F4?logo=google&style=flat-square" height="30" />
 </div>
 
 ---
----
+
+### 📊 GitHub Stats
+> My daily work lives in private Azure Repos, so these stats reflect my side projects.
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=FrankOfTheScience.FrankOfTheScience&left_text=Here%20you%20are%20too!"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FrankOfTheScience&show_icons=true&theme=nord&hide_border=true&custom_title=General%20Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrankOfTheScience&layout=compact&theme=nord&hide_border=true&custom_title=Top%20Languages" height="150" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/FrankOfTheScience/FrankOfTheScience/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 🔗 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/francescodellascenza/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://stackoverflow.com/users/15007932/frankofthescience"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?logo=stackoverflow&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FrankOfTheScience.FrankOfTheScience&left_text=Here%20you%20are%20too!" />
 </div>
