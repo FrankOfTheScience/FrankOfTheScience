@@ -12,7 +12,7 @@ It didn’t light up the neighborhood — but it did light up my curiosity.
 I actually studied **Banking and Finance** at [Università di Pisa](https://www.unipi.it/), but numbers alone weren’t enough — I wanted to *create*.  
 So I shifted paths, taught myself **.NET**, Python, Java, and JavaScript, mixing logic with creativity.  
 
-After a few nomadic years (and a lot of Workaway adventures — especially in **Gran Canaria**, my dream home 🌴),  
+After a few nomadic years (and a lot of Workaway adventures — especially in **Gran Canaria**, my dream home in EU 🌴),  
 I became a **Software Engineer**.  
 For me, each project feels like a boss level in a video game — solve it, learn, and level up.
 
@@ -21,11 +21,10 @@ For me, each project feels like a boss level in a video game — solve it, learn
 ---
 
 ### ⚙️ Quick Info
-- 🌍 Based in **Gaeta, Italy** — open to **full remote** roles (so I can keep coding by the sea)
-- ✉️ Reach me at [f.dellascenza@gmail.com](mailto:f.dellascenza@gmail.com)
+- 🌍 Based in central Italy — open only to **full remote** roles
 - 💼 Currently at [Avanade](https://www.avanade.com/it-it)
-- 📄 [Résumé (PDF)](https://github.com/FrankOfTheScience/Resumee/blob/master/CV%20.pdf) or [🎮 Gamified Portfolio](https://frankofthescience.github.io/2d-portfolio-kaboom-FrankOfTheScience/)
-- ⚡ Guitarist & weekend surfer — dream: **endless summer in the Canary Islands**
+- 📄 [🎮 Gamified bio](https://frankofthescience.github.io/2d-portfolio-kaboom-FrankOfTheScience/)
+- ⚡ Guitarist & weekend surfer
 
 ---
 
