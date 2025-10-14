@@ -111,7 +111,6 @@ For me, each project feels like a boss level in a video game — solve it, learn
   <img src="https://github-readme-stats.vercel.app/api?username=FrankOfTheScience&show_icons=true&theme=nord&hide_border=true&custom_title=General%20Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrankOfTheScience&layout=compact&theme=nord&hide_border=true&custom_title=Top%20Languages" height="150" />
   <br/>
-  <img src="https://raw.githubusercontent.com/FrankOfTheScience/FrankOfTheScience/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
