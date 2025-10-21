@@ -1,20 +1,18 @@
-# Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-## I'm Francesco
-
+# Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+### **I'm Francesco!**
 ![surf](https://github.com/FrankOfTheScience/FrankOfTheScience/assets/119010269/191c8456-7c7b-4756-9989-9938fd30e8d9)
 
 ### 🧠 About Me
 I'm a backend developer from Italy with a deep love for technology, surfing 🏄🏻‍♂️, guitar 🎸 and travel ✈️.  
 
 My passion for code began in middle school, when I tried to build a *nuclear power plant model* using Arduino ⚛️.  
-It didn’t light up the neighborhood — but it did light up my curiosity.
+It didn’t light up the neighborhood, but it did light up my curiosity.
 
-I actually studied **Banking and Finance** at [Università di Pisa](https://www.unipi.it/), but numbers alone weren’t enough — I wanted to *create*.  
-So I shifted paths, taught myself **.NET**, Python, Java, and JavaScript, mixing logic with creativity.  
+I actually studied **Banking and Finance** at [Università di Pisa](https://www.unipi.it/), but numbers alone weren’t enough: I wanted to *create*.  
+So after bachelor's degree, and a brief experience in Statistic master degree course, I shifted paths and taught myself **.NET**, Python, Java, JavaScript and more, mixing logic with creativity.  
 
 After a few nomadic years (and a lot of Workaway adventures — especially in **Gran Canaria**, my dream home in EU 🌴),  
-I became a **Software Engineer**.  
-For me, each project feels like a boss level in a video game — solve it, learn, and level up.
+I had the chance to be hired became officially a **Backend Software Engineer**.  
 
 > “Logic builds the structure, imagination makes it beautiful.”
 
