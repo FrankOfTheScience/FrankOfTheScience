@@ -1,5 +1,5 @@
 # Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-## I'm Francesco 👋
+## I'm Francesco
 
 ![surf](https://github.com/FrankOfTheScience/FrankOfTheScience/assets/119010269/191c8456-7c7b-4756-9989-9938fd30e8d9)
 
