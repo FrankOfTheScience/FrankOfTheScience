@@ -22,9 +22,9 @@ For me, each project feels like a boss level in a video game — solve it, learn
 
 ### ⚙️ Quick Info
 - 🌍 Based in central Italy — open only to **full remote** roles
-- 💼 Currently at [Avanade](https://www.avanade.com/it-it)
-- 📄 [🎮 Gamified bio](https://frankofthescience.github.io/2d-portfolio-kaboom-FrankOfTheScience/)
-- ⚡ Guitarist & weekend surfer
+- ⚡ Currently working @[Crono](https://www.crono.one/)
+- 🎮 [Gamified bio](https://frankofthescience.github.io/2d-portfolio-kaboom-FrankOfTheScience/)
+- 🏄🏻‍♂️ Guitarist & weekend surfer
 
 ---
 
